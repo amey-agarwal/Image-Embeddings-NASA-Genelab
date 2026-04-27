@@ -3,4 +3,4 @@ NASA Genelab - Digital Twin Subgroup (AI/ML Analysis Woking Group)
 
 Autoencoders and raw python code methods for obtaining embeddings for immunostaining histological assays of mouse retina
 
->Presentation of Work Available
+>Presentation file of work available
